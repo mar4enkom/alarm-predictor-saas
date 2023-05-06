@@ -22,7 +22,7 @@ To get started with using the model, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/saas-alarm-prediction-model.git
+git clone https://github.com/mar4enkom/saas-alarm-prediction-model.git
 ```
 
 2. Install the required packages:
